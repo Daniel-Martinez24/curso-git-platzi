@@ -3,3 +3,8 @@ body{
     text-align:center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#container {
+    border-color: black;
+    color: red;
+}
