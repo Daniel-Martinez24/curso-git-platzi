@@ -8,3 +8,9 @@ body{
     border-color: black;
     color: red;
 }
+
+
+#container {
+    background-color: blue;
+    color: red;
+}
